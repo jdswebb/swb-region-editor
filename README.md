@@ -42,3 +42,4 @@ The SWB Region Editor relies on the following open-source libraries. License det
  - https://github.com/glfw/glfw - Handles windowing and input
  - https://github.com/skypjack/entt - Entity Component System (ECS) framework
  - https://github.com/microsoft/DirectXTex - Texture loading
+ - https://github.com/uxlfoundation/oneTBB - Threading/task system
