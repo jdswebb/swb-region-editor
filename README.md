@@ -6,6 +6,8 @@ SWB is powered by a custom engine that can parse and render most SWG files effec
 
 ## Screenshots
 
+Video: https://www.youtube.com/watch?v=ZIeEp77hAUM
+
 ![image](https://github.com/user-attachments/assets/b958acad-18fb-46fe-a78a-f66397ad44c6)
 ![image](https://github.com/user-attachments/assets/8333de4f-7613-46ce-83c5-6f965db727b2)
 
