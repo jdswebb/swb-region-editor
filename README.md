@@ -34,7 +34,7 @@ Video: https://www.youtube.com/watch?v=ZIeEp77hAUM
 
 This project wouldn’t have been possible without the contributions of the **SWGEmu** and **MTG** teams, both past and present. 
 
-The editor relies on the following open-source libraries. License details can be found at their respective URLs:
+The editor relies on the following open-source libraries. License details can be found at their respective URLs or in `third_party_licenses.txt`:
 
  - https://github.com/turanszkij/WickedEngine - Some shaders and parts of the rendering pipeline come from the excellent Wicked Engine
  - https://github.com/ocornut/imgui - GUI
