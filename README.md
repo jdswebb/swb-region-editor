@@ -34,9 +34,7 @@ Video: https://www.youtube.com/watch?v=ZIeEp77hAUM
 
 This project wouldn’t have been possible without the contributions of the **SWGEmu** and **MTG** teams, both past and present. 
 
-## Libraries used
-
-The SWB Region Editor relies on the following open-source libraries. License details can be found at their respective URLs:
+The editor relies on the following open-source libraries. License details can be found at their respective URLs:
 
  - https://github.com/turanszkij/WickedEngine - Uses shaders from an old version of this excellent engine
  - https://github.com/ocornut/imgui - GUI
