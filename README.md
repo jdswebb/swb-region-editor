@@ -36,7 +36,7 @@ This project wouldn’t have been possible without the contributions of the **SW
 
 The editor relies on the following open-source libraries. License details can be found at their respective URLs:
 
- - https://github.com/turanszkij/WickedEngine - Uses shaders from an old version of this excellent engine
+ - https://github.com/turanszkij/WickedEngine - Some shaders and parts of the rendering pipeline come from the excellent Wicked Engine
  - https://github.com/ocornut/imgui - GUI
  - https://github.com/nothings/stb - Utilities for image loading and processing
  - https://github.com/glfw/glfw - Handles windowing and input
